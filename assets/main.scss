@@ -27,6 +27,7 @@ html {
 
         .wrap_logo {
             height: 100%;
+            width: 100%;
             display: flex;
             align-items: center;
             padding: var(--space-2) 0;
@@ -34,8 +35,8 @@ html {
             .link_logo {
                 height: 100%;
                 .img_logo {
-                    height: 100%;
-                    width: auto;
+                    // height: 60px;
+                    width: 60px;
                 }
             }
         }
