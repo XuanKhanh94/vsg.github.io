@@ -1,9 +1,4 @@
 @media (max-width: 739px) {
-    * {
-        margin: 0%;
-        padding: 0;
-        box-sizing: border-box;
-    }
     .header_nav_bar {
         height: 60px;
         width: 100%;
@@ -179,6 +174,7 @@
                 .header_right_about {
                     font-size: 28px;
                     line-height: 50px;
+                    width: 100%;
                 }
             }
         }

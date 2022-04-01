@@ -21,10 +21,7 @@ const swiper = new Swiper('.swiper', {
 
 });
 
-AOS.init();
+// AOS.init();
 
 
 
-let count=1;
-const n=count--
-console.log(count);
